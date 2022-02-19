@@ -3,7 +3,7 @@
 package LabAssignment;
 import java.util.Scanner;
 
-public class Basic_Excercise_4 {
+public class Java_lab_4 {
 	
 
 public static boolean checkNumber(int n )

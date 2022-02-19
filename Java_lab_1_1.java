@@ -4,7 +4,7 @@
 package LabAssignment;
 import java.util.Scanner;
 
-public class Basic_Exercise_1 
+public class Java_lab_1
 {		
 		
 	

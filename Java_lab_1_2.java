@@ -8,7 +8,7 @@ package LabAssignment;
 //sumSquareNo = addition of natural number  
 //sumSquare = summation of squares of the first natural number
 
-public class Basic_Exercise_2 {
+public class Java_lab_2 {
 	
 
 	public static void main(String[] args) 

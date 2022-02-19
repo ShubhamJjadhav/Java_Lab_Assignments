@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 
-public class Basic_Excercise_3 {
+public class Java_lab_3 {
 
 	
 	    public static void main(String args[]) {
