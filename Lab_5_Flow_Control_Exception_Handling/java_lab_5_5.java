@@ -3,14 +3,14 @@ import java.util.Scanner;
 public class java_lab_5_5 {
 	
 	
-	public static void checkAge (int age) throws belowAgeException{
+	public static void checkAge (int age) throws java_lab_class_belowAge_5_5{
 		
 		if (age > 15 ) {
 			System.out.println("Your age " + age + " is above 15");
 		}
 		
 		else {
-			throw new belowAgeException("Your age is below 15");
+			throw new java_lab_class_belowAge_5_5("Your age is below 15");
 		}
 		
 				
@@ -27,7 +27,7 @@ public class java_lab_5_5 {
 		try {
 			java_lab_5_5.checkAge(age);
 		}
-		catch(belowAgeException ba){
+		catch(java_lab_class_belowAge_5_5 ba){
 			System.out.println(ba.getMessage());	
 		}
 		finally {
